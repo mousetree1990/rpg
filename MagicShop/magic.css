@@ -1,0 +1,170 @@
+ .body{
+     position:fixed;
+     display:flex;
+     background-color: black;
+     width: 100%;
+     height: 100%;
+
+ }
+
+ .shopPicDiv{
+     position: relative;
+     display: flex;
+     background-color: aquamarine;
+     width: 20%;
+     height: 50%;
+     margin: 20px;
+
+ }
+
+ .textBox{
+     position: relative;
+     display: flex;
+     background-color: blanchedalmond;
+     width: 46%;
+     height: 15%;
+     margin: 30px;
+     top: 50%;
+     right: 22.8%;
+
+ }
+
+ .innerText{
+     position: relative;
+     display: flex;
+     background-color: rgb(255, 255, 255);
+     width: 95%;
+     left: 2.2%;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 20px;
+     
+ }   
+
+ .shopInventoryDiv{
+    position: absolute;
+    display: flex;
+    background-color:blanchedalmond;
+    width: 46.3%;
+    height: 20%;
+    top: 70%;
+    left: 1%;
+ }
+
+ .shopInv1{
+    position:relative;
+    display: flex;
+    background-color:blanchedalmond;
+    height: 15%;
+    width: 15%;
+    margin: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+    font-style: italic;
+ }
+
+ .shopBuyInv1{
+    position:relative;
+    display: flex;
+    background-color:blanchedalmond;
+    height: 15%;
+    width: 15%;
+    margin: 15px;
+    
+    
+ }
+
+ .shopBuyButton1{
+    background-color:aliceblue;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 16px;
+ }
+
+ .shopInv2{
+    position:relative;
+    display: flex;
+    background-color:blanchedalmond;
+    height: 15%;
+    width: 15%;
+    margin: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+    font-style: italic;
+ }
+
+ .shopBuyInv2{
+    position:relative;
+    display: flex;
+    background-color: blanchedalmond;
+    height: 15%;
+    width: 15%;
+    margin: 15px;
+ }
+
+ .shopBuyButton2{
+    background-color:aliceblue;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 16px;
+ }
+
+ .myInvOuter{
+    position: absolute;
+    display:flex;
+    background-color:blanchedalmond;
+    width: 20%;
+    height: 36.5%;
+    right: 31.5%;
+    top:53.5%;
+ }
+
+ .myInvInner{
+   position: absolute;
+   display:flex;
+   background-color:aliceblue;
+   height: 85%;
+   width: 85%;
+   top: 7%;
+   left: 7.5%;
+ }
+
+ .myInv1{
+   position: absolute;
+   display:flex;
+   background-color:rgb(3, 38, 68);
+   height: 15%;
+   width: 25%;
+   margin: 10px;
+ }
+
+ .myInv2{
+   position: absolute;
+   display:flex;
+   background-color:rgb(3, 38, 68);
+   height: 15%;
+   width: 25%;
+   margin: 10px;
+   left: 34%;
+ }
+
+ .myInv3{
+   position: absolute;
+   display:flex;
+   background-color:rgb(3, 38, 68);
+   height: 15%;
+   width: 25%;
+   margin: 10px;
+   left: 68%;
+ }
+
+ .myInv4{
+   position: absolute;
+   display:flex;
+   background-color:rgb(3, 38, 68);
+   height: 15%;
+   width: 25%;
+   margin: 10px;
+   top: 20%;
+ }
+ 
+ 
